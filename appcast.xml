@@ -9,12 +9,5 @@
         <enclosure url="http://paana.news" sparkle:version="1.0.0-dev" />
         <sparkle:tags> </sparkle:tags> 
     </item>
-    <item>
-        <title>Version 1.1.0</title>
-        <description>desc</description>
-        <pubDate>Sat, 26 Jul 2016 15:20:11 +0000</pubDate>
-        <enclosure url="http://paana.news" sparkle:version="1.1.0-dev" />
-        <sparkle:tags> </sparkle:tags> 
-    </item>
   </channel>
 </rss>
