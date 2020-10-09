@@ -6,7 +6,7 @@
         <title>Version 1.0</title>
         <description>desc</description>
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-        <enclosure url="http://paana.news" sparkle:version="1.0" />
+        <enclosure url="http://paana.news" sparkle:version="1.0.0" />
         <sparkle:tags> </sparkle:tags> 
     </item>
   </channel>
